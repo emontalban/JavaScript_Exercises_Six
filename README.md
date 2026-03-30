@@ -1,8 +1,8 @@
 ---
-description: Welcome to your team’s developer platform
+
 ---
 
-# Developer Platform
+# JavaScript Introduccion
 
 <h2 align="center">JavaScript</h2>
 
