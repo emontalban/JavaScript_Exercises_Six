@@ -1,7 +1,34 @@
-# Primeros Pasos en JavaScript
+---
+icon: node-js
+---
 
-<h2 align="center">JavaScript</h2>
+# JavaScript
 
-<p align="center">Introducción a JavaScript</p>
+JavaScript no es solo un lenguaje de programación; es obtener la llave maestra de la web moderna. A diferencia de Java, que se enfoca principalmente en servidores, JavaScript es el lenguaje nativo de la web y fundamental para la interactividad en internet. Cuando una página se mueve, se actualiza sola o  permite jugar en el navegador, la respuesta es casi siempre JavaScript (JS).
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>JavaScript</strong></td><td>¿Qué diferencia a Javascript de cualquier otro lenguaje de programación?</td><td><a href="https://app.gitbook.com/s/6Apq06cRJbgKYAzCRHVt/">JavaScript</a></td><td><a href=".gitbook/assets/01.JavaScript.png">01.JavaScript.png</a></td></tr><tr><td><strong>Tipo de Datos</strong></td><td>¿Cuáles son algunos tipos de datos JS?</td><td><a href="https://app.gitbook.com/s/6Apq06cRJbgKYAzCRHVt/tipos-de-datos">Tipos de datos</a></td><td><a href=".gitbook/assets/02.Tipos de datos.png">02.Tipos de datos.png</a></td></tr><tr><td><strong>Funciones de String</strong></td><td>¿Cuáles son las tres funciones de String en JS?</td><td><a href="https://app.gitbook.com/s/6Apq06cRJbgKYAzCRHVt/funciones-de-string">Funciones de String</a></td><td><a href=".gitbook/assets/03.FuncionesString.png">03.FuncionesString.png</a></td></tr><tr><td><strong>Condicionales</strong></td><td>¿Qué es un condicional?</td><td><a href="https://app.gitbook.com/s/6Apq06cRJbgKYAzCRHVt/condicionales">Condicionales</a></td><td><a href=".gitbook/assets/04.Condicionales.png">04.Condicionales.png</a></td></tr><tr><td><strong>Operador Ternario</strong></td><td>¿Qué es un operador ternario?</td><td><a href="https://app.gitbook.com/s/6Apq06cRJbgKYAzCRHVt/operador-ternario">Operador Ternario</a></td><td><a href=".gitbook/assets/05.Operador Ternario.png">05.Operador Ternario.png</a></td></tr><tr><td><strong>Declaración Vs Expresión</strong></td><td>¿Cuál es la diferencia entre una declaración de función y una expresión de función?</td><td><a href="https://app.gitbook.com/s/6Apq06cRJbgKYAzCRHVt/declaracion-de-funcion-vs-expresion-de-funcion">Declaración de función vs expresión de función</a></td><td><a href=".gitbook/assets/06. Declaración Vs Expresión.png">06. Declaración Vs Expresión.png</a></td></tr><tr><td><strong>This</strong></td><td>¿Qué es la palabra clave "this" en JS?</td><td><a href="https://app.gitbook.com/s/6Apq06cRJbgKYAzCRHVt/this">This</a></td><td><a href=".gitbook/assets/07.This.png">07.This.png</a></td></tr></tbody></table>
+JavaScript es el único lenguaje de programación que se ejecuta de forma nativa en todos los navegadores web (Chrome, Safari, Firefox). Sin él, Internet sería una serie de documentos estáticos.
+
+Permite crear mapas interactivos, animaciones complejas y menús desplegables. No necesitas configurar entornos pesados para empezar desde un navegador ya es un entorno de desarrollo.<br>
+
+Está presente en el 95% de todos los sitios web y es considerado el lenguaje de programación número uno según múltiples encuestas a desarrolladores.
+
+Grandes sitios como Facebook, Instagram, Amazon, Netflix entre otros  usan JavaScript
+
+JavaScript no se limita a una sola área abordar casi cualquier tipo de desarrollo:
+
+* **Desarrollo web**: Funciona en el front-end con frameworks como React, Angular o Vue, y en el back-end gracias a Node.js.
+* **Aplicaciones móviles**: Con React Native, se pueden crear aplicaciones nativas para iOS y Android.
+* **Otras áreas**: Se aplica en aplicaciones de escritorio, Inteligencia Artificial, Blockchain, Internet de las Cosas (IoT) y automatización de navegadores.
+
+JavaScript tiene la comunidad más grande de desarrolladores en el mundo. Tiene librerías para todo, si necesitas resolver un problema, seguro que alguien creo una libreria (en NPM) para ayudarte, por ellos es casi imposible que te quedes trabado en un error; la solución probablemente ya esté en Stack Overflow o GitHub.
+
+También tiene algunas desventajas:
+
+* **Seguridad :** Al ejecutarse en el navegador, el código está expuesto al usuario puede ser vulnerable a ataques como el XSS (Cross-Site Scripting).&#x20;
+* **Problema con la Dependencias:** El ecosistema de JavaScript depende muchísimo de paquetes externos (NPM). Si una libreria pequeña que tu proyecto usa se actualiza mal o desapareces, puede romper toda tu aplicacion.
+* **Inconsistencia entre Navegadores:** JavaScript puede comportarse de manera diferente según el navegador o la versión que use el usuario. Lo que funciona bien en chrome, a veces se rompe en una version antigua de otro navegador
+* **Tipado débil :** JavaScript es un lenguaje de tipado débil y dinámico. Esto significa que puedes sumar un número con un texto y el lenguaje intentará hacerlo en lugar de dar un error, lo que causa bugs impredecibles
+
+
+
+<figure><img src=".gitbook/assets/javaScript.png" alt=""><figcaption></figcaption></figure>
