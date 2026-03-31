@@ -1,6 +1,4 @@
----
 
----
 
 # JavaScript Introduccion
 
