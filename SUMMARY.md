@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Primero Pasos en JavaSript](README.md)
+* [Primeros Pasos en JavaScript](README.md)
