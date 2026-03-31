@@ -1,6 +1,6 @@
 
 
-# JavaScript Introduccion
+# Primeros pasos en JavaScript
 
 <h2 align="center">JavaScript</h2>
 
